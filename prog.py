@@ -3,3 +3,6 @@ num_b=int(input("digite outro numero: "))
 total = num_a + num_b
 print(total) 
 print("atualizando")
+
+teste
+
